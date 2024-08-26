@@ -1,8 +1,5 @@
 ## Reachinbox
 
-## Deployed Link :
-https://reachinbox-seven.vercel.app/
-
 ## Tech Stack used:
 * React.js
 * Redux.js
@@ -42,8 +39,6 @@ https://reachinbox-seven.vercel.app/
 
 
 ## Project Setup
-
-* git clone https://github.com/GaneshGourav/reachinbox-frontend-assignment.git
 * npm i
 * npm start
 
